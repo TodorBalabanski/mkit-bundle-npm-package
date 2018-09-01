@@ -18,7 +18,7 @@
     "lib",
     "src"
   ],
-  "main": "./src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
     "test": "jest",
