@@ -32,7 +32,17 @@ There are several boilerplates out there, but we felt they all miss a thing or t
 
 ## Getting Started
 
-### Installation
+### Automagically...
+
+This whole project can be installed automagically using [our smart tool](https://github.com/mkitio/mkit-bundler). 
+
+1. Visit [`mkit-bundler`](https://github.com/mkitio/mkit-bundler)
+
+2. That's pretty much it... :boom: :boom: :boom:
+
+_Don't worry, these instructions will be present there too!_
+
+### or Manually
 
 These simple steps will get you a copy of the project, make it your own and let you start hacking right away!
 
